@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Under Construction</title>
+    <style>
+        body {
+            background-color: #f8f9fa;
+            color: #333;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            text-align: center;
+            padding-top: 15%;
+        }
+        h1 {
+            font-size: 3em;
+            color: #dc3545;
+        }
+        p {
+            font-size: 1.5em;
+        }
+    </style>
+</head>
+<body>
+    <?php
+        echo "<h1>🚧 Site is Under Construction 🚧</h1>";
+        echo "<p>We'll be back soon. Thank you for your patience!</p>";
+    ?>
+</body>
+</html>
